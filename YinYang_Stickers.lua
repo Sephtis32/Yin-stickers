@@ -52,6 +52,7 @@ return {
         "Emoji18",
         "Emoji19",
         "Emoji20",
+        "Chispa",
     },
 
     -- Datos de cada sticker
@@ -245,6 +246,11 @@ return {
             Image   = "rbxassetid://94598866267972",
             LabelES = "Emoji20",
             LabelEN = "Emoji20",
+        },
+        Chispa = {
+            Image   = "rbxassetid://95581850042375",
+            LabelES = "Chispa",
+            LabelEN = "Spark",
         },
     }
 }
