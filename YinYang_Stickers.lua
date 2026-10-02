@@ -257,6 +257,7 @@ return {
         "Huron",
         "Civeta",
         "Binturong",
+        "Kalimba",
     },
 
     -- Datos de cada sticker
@@ -1476,5 +1477,17 @@ return {
             LabelES = "Binturong",
             LabelEN = "Binturong",
         },
+        Kalimba = {
+            Image    = "rbxassetid://89471585038042",
+            Frames   = {
+                "rbxassetid://89471585038042",
+                "rbxassetid://138192448358427",
+                "rbxassetid://101252427895278",
+            },
+            Interval = 5,
+            LabelES  = "Kalimba",
+            LabelEN  = "Kalimba",
+        },
     }
 }
+
